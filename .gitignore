@@ -1,0 +1,8 @@
+*.zip
+*.mp3
+*.wav
+*.mp4
+.env*
+paid-draft/
+work/
+provenance.json
